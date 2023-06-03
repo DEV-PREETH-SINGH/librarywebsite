@@ -7,6 +7,9 @@ import './BookList.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import Aos from 'aos'
 import 'aos/dist/aos.css'
+import dotenv from 'dotenv';
+
+dotenv.load();
 
 const BookList = () => {
   useEffect(() => {
@@ -20,12 +23,12 @@ const BookList = () => {
 
 
   const booksWithCovers = books.map((singleBook) => {
-    
+    var api_variable = process.env.REACT_APP_API_URL;
     return {
       ...singleBook,
       id: singleBook.id.replace('/works/', ''),
       cover_img: singleBook.cover_id
-        ? `https://covers.openlibrary.org/b/id/${singleBook.cover_id}-L.jpg`
+        ? {api_variable}
         : coverImg,
     };
   });
