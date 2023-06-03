@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/librarywebsite/static/css/main.27823c1f.css",
+    "main.js": "/librarywebsite/static/js/main.c461cda1.js",
+    "static/media/Books.mp4": "/librarywebsite/static/media/Books.174cdd5bc300e2c48834.mp4",
+    "static/media/Library.jpg": "/librarywebsite/static/media/Library.5120f623ba54b3075e9e.jpg",
+    "static/media/bg.jpg": "/librarywebsite/static/media/bg.363ef061644cd958c910.jpg",
+    "static/media/book4.jpg": "/librarywebsite/static/media/book4.30e1b26bf6a197ed5844.jpg",
+    "static/media/Author3.jpeg": "/librarywebsite/static/media/Author3.990bd218f3d428ea8ecc.jpeg",
+    "static/media/fa-solid-900.ttf": "/librarywebsite/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/cover_not_found.jpg": "/librarywebsite/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/fa-brands-400.ttf": "/librarywebsite/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/Author2.jpg": "/librarywebsite/static/media/Author2.a71936224dc70f213dd9.jpg",
+    "static/media/fa-solid-900.woff2": "/librarywebsite/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/book1.jpg": "/librarywebsite/static/media/book1.97b8a459e91e5254d69f.jpg",
+    "static/media/fa-brands-400.woff2": "/librarywebsite/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/Author1.jpeg": "/librarywebsite/static/media/Author1.6d5fac716ec099e99d77.jpeg",
+    "static/media/book3.jpg": "/librarywebsite/static/media/book3.b245eb530bd1138dd8dc.jpg",
+    "static/media/book2.jpg": "/librarywebsite/static/media/book2.259f3deb740d3cd3f867.jpg",
+    "static/media/fa-regular-400.ttf": "/librarywebsite/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/logo4.jpg": "/librarywebsite/static/media/logo4.54fe03f7934331cdf2a8.jpg",
+    "static/media/Author4.jpg": "/librarywebsite/static/media/Author4.a15b750d6d21229ec6b3.jpg",
+    "static/media/fa-regular-400.woff2": "/librarywebsite/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/Image_not_found.jpg": "/librarywebsite/static/media/Image_not_found.f0ef48e4f49fd393bc29.jpg",
+    "static/media/fa-v4compatibility.ttf": "/librarywebsite/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/librarywebsite/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/librarywebsite/index.html",
+    "static/media/loader.svg": "/librarywebsite/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.27823c1f.css.map": "/librarywebsite/static/css/main.27823c1f.css.map",
+    "main.c461cda1.js.map": "/librarywebsite/static/js/main.c461cda1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27823c1f.css",
+    "static/js/main.c461cda1.js"
+  ]
+}
